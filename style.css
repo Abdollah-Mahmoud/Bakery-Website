@@ -1,0 +1,270 @@
+.item {
+  margin: 5px;
+  padding: 20px 35px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 16px;
+  background-color: #8f7754;
+  border-color: #8f7754;
+  color: white;
+  font-family: Alegreya Sans;
+}
+
+.contact {
+  background-color: transparent;
+  border-color: white;
+}
+
+.first-div {
+  text-align: center;
+  background-image: url("https://www.engage.veented.com/bakery/wp-content/uploads/sites/27/2017/04/drew-coffman-1872.jpg");
+  height: 700px;
+  background-position: center center;
+  padding: 250px;
+  color: white;
+}
+
+.welcome {
+  font-size: 22px;
+  font-family: Alegreya Sans;
+}
+
+.first-paragraph {
+  font-size: 24px;
+  font-family: Alegreya Sans;
+}
+
+.family-bakery {
+  font-size: 76px;
+  margin: 20px;
+  font-family: Alegreya;
+}
+
+body {
+  margin: 0;
+}
+
+.div-sec2 img {
+  width: 35%;
+  float: left;
+  padding: 110px 150px;
+  height: 550px;
+}
+
+.div-sec2-right-side {
+  padding: 150px 0;
+}
+
+.div-sec2-right-side img {
+  width: 45px;
+}
+
+.sec-2-span {
+  font-family: Alegreya;
+  font-size: 32px;
+}
+
+.sec-2-par {
+  font-family: Alegreya Sans;
+  font-size: 17px;
+  color: #686a6e;
+  padding-right: 8%;
+  line-height: 32px;
+}
+
+.icon1 {
+  font-family: Alegreya Sans;
+  font-size: 17px;
+  display: flex;
+  align-items: center;
+  color: #686a6e;
+}
+
+.icon1-img {
+  margin-right: 15px;
+}
+
+.sec-3-span {
+  font-family: Alegreya;
+  font-size: 32px;
+  font-weight: 400;
+  color: #303030;
+}
+
+.sec-3-par {
+  font-family: Alegreya Sans;
+  font-size: 17px;
+  font-weight: 400;
+  color: #806969;
+  line-height: 32px;
+}
+
+.sec-3-right {
+  width: 35%;
+  float: right;
+  padding-right: 8%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.sec-3-right img {
+  width: 95%;
+}
+
+.main-sec-3 {
+  background-color: #f7f7f7;
+  overflow: auto;
+  width: 100%;
+}
+
+.div-sec-3 {
+  width: 40%;
+  float: left;
+  padding-left: 10%;
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+
+.box {
+  width: 33.33333%;
+  background-color: white;
+  float: left;
+  text-align: center;
+}
+
+.box img {
+  width: 70%;
+}
+
+.clear-fix {
+  clear: both;
+}
+
+.sec-4-title {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.sec-4-h2 {
+  font-family: Alegreya;
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.sec-4-par {
+  font-family: Alegreya Sans;
+  font-size: 17px;
+  font-weight: 400;
+  color: #8c8a88;
+  margin-bottom: 40px;
+}
+
+.main-sec-5 {
+  background-color: #f7f7f7;
+  overflow: auto;
+  width: 100%;
+}
+
+.map-pic-div {
+  width: 40%;
+  float: right;
+  padding-right: 100px;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.sec-5-div {
+  width: 40%;
+  float: left;
+  padding-top: 100px;
+  padding-left: 100px;
+}
+
+.map-pic-div img {
+  width: 100%;
+}
+
+.sec-5-span {
+  font-family: Alegreya;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 44px;
+}
+
+.sec-5-par .sec-5-span2 .box p {
+  font-family: Alegreya Sans;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 32px;
+}
+
+.sec-5-par {
+  color: #686a6e;
+  line-height: 32px;
+}
+
+.sec-5-span2 {
+  color: #686a6e;
+  line-height: 32px;
+}
+
+.box h3 {
+  font-family: Alegreya;
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.box p {
+  color: #8c8a88;
+  line-height: 1.7;
+  margin: 35px;
+  margin-top: 0;
+}
+.main-sec6-div {
+  overflow: auto;
+}
+
+.main-sec6-div > div {
+  float: left;
+  width: 23%;
+  margin-left: 25px;
+  margin-top: 40px;
+  background-color: #403d37;
+}
+
+.background {
+  background-color: #403d37;
+}
+
+.spans {
+  font-family: Alegreya;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25px;
+  color: white;
+  padding-bottom: 15px;
+  margin-top: 50px;
+  margin-bottom: 60px;
+}
+
+.main-sec6-div para .main-sec6-div para {
+  border-bottom: 1px solid whitesmoke;
+  padding-bottom: 8px;
+  margin-bottom: 10px;
+}
+.last {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: #353331;
+}
+
+.last img {
+  max-width: 100%;
+  height: auto;
+}
+
+.main-sec6-div p{ 
+  color: #8c8a88;
+}
